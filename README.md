@@ -2,7 +2,7 @@ Replication materials for "Polarization and Shared Attention among Influential A
 
 The repository includes four files:
 
-1. candidate_influencer_network.gexf includes the Gephi network of candidates/influencers and retweets among them
+1. candidate_influencer_network.gexf includes a Gephi network of candidates/influencers and retweets among them
 2. candidate_twitter_handles.csv includes the list of candidates for whom Twitter handles were collected
 3. influencer_bot_scores.csv includes the list of the influencers and their respective Botometer scores
 4. incluencer_political_role.csv includes the list of the influencers classified according to their political roles
