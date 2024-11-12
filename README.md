@@ -1,4 +1,4 @@
-Replication materials for "Polarization and Shared Attention among Influential Amplifiers of 2018 U.S. Primary Candidates," forthcoming in the Journal of Quantitative Description: Digital Media. A working version of the paper can be found here: https://www.yotamshmargad.com/wp-content/uploads/2024/01/Shared-Attention.pdf
+Data from "Polarization and Shared Attention among Influential Amplifiers of 2018 U.S. Primary Candidates," forthcoming in the Journal of Quantitative Description: Digital Media. A working version of the paper can be found here: https://www.yotamshmargad.com/wp-content/uploads/2024/01/Shared-Attention.pdf
 
 The repository includes four files:
 
